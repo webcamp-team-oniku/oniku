@@ -1,0 +1,2 @@
+class PublicCustomersController < ApplicationController
+end
