@@ -1,0 +1,2 @@
+module Admin::DelivariesHelper
+end
